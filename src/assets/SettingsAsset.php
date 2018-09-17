@@ -23,7 +23,7 @@ use yii\web\JqueryAsset;
  */
 class SettingsAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/gearsoftware/yii2-settings/assets/source';
+    public $sourcePath = '@vendor/gearsoftware/yii2-settings/src/assets/source';
     public $css = [
         'css/settings.css',
     ];
